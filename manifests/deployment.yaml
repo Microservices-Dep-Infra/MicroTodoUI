@@ -17,3 +17,4 @@ spec:
         image: acrdevtodoapp01.azurecr.io/todo-ui:v4
         ports:
         - containerPort: 80
+        
